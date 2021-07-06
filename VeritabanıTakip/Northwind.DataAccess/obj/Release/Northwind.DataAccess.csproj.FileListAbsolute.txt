@@ -1,0 +1,14 @@
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Release\Northwind.DataAccess.dll.config
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Release\Northwind.DataAccess.dll
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Release\Northwind.DataAccess.pdb
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Release\EntityFramework.dll
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Release\Northwind.Entities.dll
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Release\Northwind.Entities.pdb
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Release\EntityFramework.xml
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.DataAccess\obj\Release\Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.DataAccess\obj\Release\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.DataAccess\obj\Release\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.DataAccess\obj\Release\Northwind.DataAccess.dll
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.DataAccess\obj\Release\Northwind.DataAccess.pdb

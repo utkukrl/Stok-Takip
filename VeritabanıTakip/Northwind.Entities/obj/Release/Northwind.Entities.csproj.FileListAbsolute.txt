@@ -1,0 +1,5 @@
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.Entities\bin\Release\Northwind.Entities.dll
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.Entities\bin\Release\Northwind.Entities.pdb
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.Entities\obj\Release\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.Entities\obj\Release\Northwind.Entities.dll
+C:\Users\UTKU\source\repos\NLayeredAppDemo\Northwind.Entities\obj\Release\Northwind.Entities.pdb
